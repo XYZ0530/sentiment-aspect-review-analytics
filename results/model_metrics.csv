@@ -1,0 +1,5 @@
+Model,Feature Representation,Accuracy,F1 Score
+SVM,CountVectorizer,0.8642,0.864741
+SVM,TF-IDF,0.8967,0.897408
+BiLSTM,CBOW,0.8890,0.892212
+BiLSTM,Skip-Gram,0.9029,0.903412
