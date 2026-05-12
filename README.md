@@ -171,6 +171,6 @@ Before running, place your review CSV in a local data folder and update notebook
 - How topic modeling and aspect extraction can support review analytics.
 - How to communicate NLP results using both model metrics and business-facing product insights.
 
-## Resume Summary
+## Summary
 
 Built an individual NLP review analytics pipeline for product sentiment classification and aspect-based review analysis. Compared SVM models using CountVectorizer and TF-IDF with BiLSTM models using CBOW and Skip-Gram embeddings; best result was BiLSTM Skip-Gram with **90.29% accuracy** and **0.9034 F1**. Applied LDA, BERTopic, and CorEx to extract product review aspects for product comparison and ranking.
